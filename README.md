@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+### Big Bharath here :heart:
+
+- 🔭 I’m currently working on DataScience and ML projects
+- 🌱 I’m currently learning Machine Learning and Computer Vision
+- 💬 Ask me about anything related to food,cinema and Data
+- 📫 How to reach me: My linkedin profile [Bharath](https://www.linkedin.com/in/bharathcs/)
+- 😄 Pronouns: He 
+- ⚡ Fun fact: "I sleep early to wake up late "
 
 <!--
 **bharath-acchu/bharath-acchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
